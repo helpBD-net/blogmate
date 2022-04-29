@@ -6,6 +6,7 @@ Deployed on - <https://dailytaskmate.herokuapp.com/>
 Register your own or:
 
 Username: blabla1
+
 Password: abcd123@
 
 ## Screenshots
